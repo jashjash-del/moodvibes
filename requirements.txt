@@ -1,12 +1,12 @@
 av==11.0.0
 keras==2.13.1
 mediapipe==0.10.9
-mysql_connector_repackaged==0.3.1
+mysql_connector_==8.3.0
 numpy==1.24.3
 opencv_contrib_python==4.9.0.80
 opencv_python==4.8.1.78
 protobuf==3.20.3
 python_bcrypt==0.3.2
 streamlit==1.29.0
-streamlit_webrtc==0.47.6
+streamlit_webrtc==0.47.1
 tensorflow_intel==2.13.0
